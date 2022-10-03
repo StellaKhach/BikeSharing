@@ -37,3 +37,11 @@ This graph shows the peak hours of Rides in August. As we can see, the most popu
 This graph shows that most riders were likely to ride for less than 1 hour. Male reiders are mostly born between 1980 and 1990 while female riders are mostly born between 1990 and 2010.
 
 
+#Summary
+
+In Conclusion, most bikeshares take place during rush hour, between 7 am to 9 am and between 5pm and 7 pm. There are more riders that are male than female. Most rides take about 5-10 minutes to complete. 
+
+The people who tend to drive on the weekends are not subscribers but regular customers who are perhaps tourists. 
+
+* Additional analysis that I would conduct would be to look at trip start and end locatins to see where the highest concentration of riders are. 
+* Another analysis would be to look deeper at birht year and age and see if there's a correlation there and trip start and end stations. 
