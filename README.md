@@ -1,6 +1,6 @@
 # BikeSharing
 
-##Overview of the Statistical Analysis
+#Overview of the Statistical Analysis
 
 Attached is a Tableay Story that includes visalizations of the analysis below : [BikeSharing Story](https://public.tableau.com/app/profile/stella.khachatryan/viz/NYCCitibike_16648292261730/NYCCityBike)
 
@@ -11,6 +11,8 @@ The purpose of the analysis was to check who uses the bikeshare, what are the mo
 
 
 #Results
+
+
 ![Checkout Times for Users](https://user-images.githubusercontent.com/92186586/193691670-3211068b-1765-4c6c-81ff-da587eebf3a7.png)
 The graph below shows that most of the rides were less than 1 hour long. About 146,000 bike rides were 5 minutes long. It concludes that most rides were 5 minutes long.
 
